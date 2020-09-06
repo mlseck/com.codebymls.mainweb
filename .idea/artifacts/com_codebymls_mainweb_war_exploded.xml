@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="com.codebymls.mainweb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_codebymls_mainweb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="com.codebymls.mainweb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="com.codebymls.mainweb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
